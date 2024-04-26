@@ -167,7 +167,7 @@
 
 /*AS SKIILS*/
 #skills-section-title {
-  border-top: 1px solid var(--border-color);
+  border-top: 2px solid var(--border-color);
   padding-top: 20px;
   margin-bottom: 20px;
   font-size: 32px;
@@ -195,6 +195,7 @@
   padding-left: 10px;
   border-left: 5px solid var(--main-color);
 }
+
 
 #skills-box {
   flex: 1 1 33%;
